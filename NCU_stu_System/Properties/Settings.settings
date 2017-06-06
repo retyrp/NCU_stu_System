@@ -1,0 +1,39 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="NCU_stu_System.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ID" Type="System.String" Scope="User">
+      <Value Profile="(Default)">学号/用户名</Value>
+    </Setting>
+    <Setting Name="PWD" Type="System.String" Scope="User">
+      <Value Profile="(Default)">密码</Value>
+    </Setting>
+    <Setting Name="CHECKBOX_PWD" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="CHECKBOX_AOTU" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="Location" Type="System.String" Scope="User">
+      <Value Profile="(Default)">北京</Value>
+    </Setting>
+    <Setting Name="NAME" Type="System.String" Scope="User">
+      <Value Profile="(Default)">default</Value>
+    </Setting>
+    <Setting Name="NCU_stu_System_cn_com_webxml_www_WeatherWebService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://www.webxml.com.cn/WebServices/WeatherWebService.asmx</Value>
+    </Setting>
+    <Setting Name="IP_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">192.168.120.1</Value>
+    </Setting>
+    <Setting Name="PORT_server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1069</Value>
+    </Setting>
+    <Setting Name="stu_id" Type="System.String" Scope="User">
+      <Value Profile="(Default)">8000114069</Value>
+    </Setting>
+    <Setting Name="stu_pwd" Type="System.String" Scope="User">
+      <Value Profile="(Default)">112411yrp</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
